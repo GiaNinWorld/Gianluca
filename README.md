@@ -1,1 +1,1 @@
-"<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/c7bd7007c99202268624141593459dad.gif" width="400" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/060122aa1d82a602ad1017d155aa237f.gif" width="450" height="215" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
